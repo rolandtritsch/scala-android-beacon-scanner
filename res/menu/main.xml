@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:id="@+id/action_start_scan"
+        android:title="Start"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+	/>
+  <item android:id="@+id/action_stop_scan"
+        android:title="Stop"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+	/>
+</menu>
