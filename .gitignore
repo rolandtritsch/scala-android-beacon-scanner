@@ -1,3 +1,4 @@
+# general
 *.class
 *.log
 
@@ -9,9 +10,6 @@ src_managed/
 project/boot/
 project/plugins/project/
 
-# Scala-IDE specific
-.scala_dependencies
-
 # ensime specific
 .ensime
 .ensime_lucene/
@@ -19,3 +17,4 @@ project/plugins/project/
 # android specific
 gen/
 bin/
+local.properties
